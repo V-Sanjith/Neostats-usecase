@@ -5,7 +5,7 @@ An AI-powered medical appointment booking assistant built with Streamlit, LangCh
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-
+Deployment link : https://v-sanjith-neostats-usecase-appmain-k79qtt.streamlit.app/
 ## 🎯 Features
 
 - **🤖 AI-Powered Chat** - Natural language conversations using Groq's Llama 3.3 70B model
