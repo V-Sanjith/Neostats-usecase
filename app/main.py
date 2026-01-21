@@ -200,7 +200,6 @@ def render_sidebar():
                 st.divider()
             
             # Clear chat button
-            st.markdown("### ⚙️ Settings")
             if st.button("🗑️ Clear Chat", use_container_width=True):
                 if 'messages' in st.session_state:
                     st.session_state.messages = []
