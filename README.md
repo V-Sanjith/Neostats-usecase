@@ -117,13 +117,11 @@ SMTP_EMAIL = "your_email@gmail.com"
 SMTP_PASSWORD = "your_app_password"
 
 # Admin Dashboard
-ADMIN_PASSWORD = "your_admin_password"
+ADMIN_PASSWORD = "admin@123"
 
 # App Settings
 APP_NAME = "MedBook AI"
 CLINIC_NAME = "Your Clinic Name"
-CLINIC_PHONE = "+1-555-0123"
-CLINIC_ADDRESS = "123 Health Street"
 ```
 
 ### 4. Set Up Supabase Database
